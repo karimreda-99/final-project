@@ -3,7 +3,7 @@ body {
   padding: 0;
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-  /* background-image: url("./images/gradientbackground.png"); */
+  background-image: url("./images/gradientbackground.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
