@@ -11,7 +11,7 @@ const CardContainer = styled.section`
   border-radius: 0.625rem;
   @media (max-width: 768px) {
     width: auto;
-    margin: 10vw auto;
+    margin: 0 auto;
     padding: 10vw;
     flex-direction: column;
     background: unset;
