@@ -3,14 +3,22 @@ body {
   padding: 0;
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-  background-image: url("./images/gradientbackground.png");
+  /* background-image: url("./images/gradientbackground.png"); */
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
 }
 @media (max-width: 768px) {
-  body {
-    background-size: 200%;
-    box-shadow: inset 0 0 0 1000px rgba(255, 255, 255, 0.85);
+  body{
+    background-image: none;
+  }
+  html {
+    background-size:cover;
+    background-image: 
+    linear-gradient(
+      rgba(255, 255, 255, 0.85), 
+      rgba(255, 255, 255, 0.85)
+    ),
+    url("./images/gradientbackground.png");
   }
 }
