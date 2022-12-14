@@ -15,5 +15,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ### `npm run build`
 
 ## `to viwe a livedmo go to `
-
-: [https://dreamy-liger-9427f5.netlify.app]
+ [https://dreamy-liger-9427f5.netlify.app]
