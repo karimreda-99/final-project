@@ -15,7 +15,7 @@ const App = () => {
     
       <Route exact path="/" element={<WelcomeScreen />} />
       <Route exact path="/signup" element={<SignUp />} />
-      <Route exact path="/signup" element={<SignUp />} />
+      <Route exact path="/login" element={<login />} />
       <Route exact path="/Succeed" element={<Succeed />} />
 
     </Routes>
